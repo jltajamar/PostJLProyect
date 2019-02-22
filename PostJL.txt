@@ -1,0 +1,4 @@
+idUser,Name,Surname,Password
+1,Sebastian,Gonzo,12314dfsdf
+2,Carlos,Yuvi,sfsdf2234
+3,Marta,Frostos,sdf242
